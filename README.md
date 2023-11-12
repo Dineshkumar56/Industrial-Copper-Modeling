@@ -35,19 +35,6 @@
 - Model Accuracy and Metrics: Evaluating regression model performance.
 - Model Persistence: Saving the regression model for future applications.
 
-# Getting Started
-
- ## 1. Clone the repository:
-          https://github.com/praveendecode/Industrial_Copper_Modeling
-
-##  2. Install required packages:
-          pip install -r requirements.txt
-          
-##  3. Run the Streamlit app:
-          streamlit run app.py
-    
-##  4. Access the app in your browser:
-          http://localhost:8501
 
 # Skills Covered
     - Python
